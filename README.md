@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Govind kumawat </h1>
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Bhavesh Jangid </h1>
 <p align="center">
 </p>
 <h3 align="center">🚩 A Data Scientist  From India. 🚩
@@ -34,7 +34,7 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently working as **Data Scientist Engineer** 
   
 - ⚡ My specialaization in **Python  , c , SQL , ML , DL  **
   
