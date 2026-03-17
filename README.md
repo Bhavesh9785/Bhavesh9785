@@ -1,9 +1,9 @@
 
-# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjit-Singh-786&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjit-Singh-786" /> </p>
+# Hey! Nice to see you ✨✨<p align="left">  </p>
 
 
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">,I'm Bhavesh Jangid </h1>
+<h1 align="center">Hi <img width="4" src="waving_hand.gif">,I'm Bhavesh Jangid </h1>
 <p align="center">
 </p>
 <h3 align="center">🚩 A Data Scientist  From India. 🚩
